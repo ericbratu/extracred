@@ -67,4 +67,4 @@ print(db.get("B"))
 
 ## Write-Up
 
-The templates/figures in this assignment should be in a language familiar with most students, such as Python. Java is confusing to most people since it is not as readable as languages like Python or C++. If you want the functions to be tested seperately in its own file, perhaps mention it in the assignment details so that students don't need to have any "set=up" steps and the graders can just run the test file. The grading scale currently seems effective. No other complaints.
+The templates/figures in this assignment should be in a language familiar with most students, such as Python. Java is confusing to most people since it is not as readable as languages like Python or C++. If you want the functions to be tested seperately in its own file, perhaps mention it in the assignment details so that students don't need to have any "setup" steps and the graders can just run the test file. The grading scale currently seems effective. No other complaints.
